@@ -60,3 +60,7 @@ The microservice will start running on `http://localhost:8080`
 The project includes unit tests for the service layer. You can run the tests using the following command:
 
 * `mvn test`
+
+### Note
+
+* Please use master branch
